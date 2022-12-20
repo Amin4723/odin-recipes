@@ -1,0 +1,13 @@
+div {
+    color: white;
+    background-color: red;
+    size: large;
+    text-align: center;
+}
+
+div {
+    color:black;
+    background-color:orange;
+    width: 100px;
+    height: 100px;
+}
